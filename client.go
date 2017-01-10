@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/amfranz/go-xmlrpc-client"
+	"github.com/janeprather/go-xmlrpc-client"
 )
 
 type APIResult struct {
